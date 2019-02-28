@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\obj\Debug\Programmering 1 - Mod 4 - Slutprojekt.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\obj\Debug\Programmering 1 - Mod 4 - Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\bin\Debug\Programmering 1 - Mod 4 - Slutprojekt.exe.config
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\bin\Debug\Programmering 1 - Mod 4 - Slutprojekt.exe
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\bin\Debug\Programmering 1 - Mod 4 - Slutprojekt.pdb
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\obj\Debug\Programmering 1 - Mod 4 - Slutprojekt.exe
+C:\Users\Nico\source\repos\Programmering 1 - Mod 4 - Slutprojekt\Programmering 1 - Mod 4 - Slutprojekt\obj\Debug\Programmering 1 - Mod 4 - Slutprojekt.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\obj\Debug\Programmering 1 - Uppg 3 - Gissa Talet.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\obj\Debug\Programmering 1 - Uppg 3 - Gissa Talet.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\bin\Debug\Programmering 1 - Uppg 3 - Gissa Talet.exe.config
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\bin\Debug\Programmering 1 - Uppg 3 - Gissa Talet.exe
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\bin\Debug\Programmering 1 - Uppg 3 - Gissa Talet.pdb
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\obj\Debug\Programmering 1 - Uppg 3 - Gissa Talet.exe
+C:\Users\Nico\source\repos\Programmering 1 - Uppg 3 - Gissa Talet\Programmering 1 - Uppg 3 - Gissa Talet\obj\Debug\Programmering 1 - Uppg 3 - Gissa Talet.pdb
